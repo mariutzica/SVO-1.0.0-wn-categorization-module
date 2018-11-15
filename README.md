@@ -28,3 +28,6 @@ process
 n. overly eager speed (and possible carelessness)
 property
 
+=======
+Please see the iPython Notebook for a simple example of usage.
+
