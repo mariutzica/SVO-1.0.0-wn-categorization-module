@@ -2,9 +2,14 @@ This repository contains a module for categorizing linguistic terms into SVO cat
 
 Command line usage:
 
+
+
+
 Passing two arguments to determine whether a term has a specific category:
 
-$ python ontology_category.py precipitation process
+IN >>>$ python ontology_category.py precipitation process
+
+OUT >>>
 
 The following definitions of precipitation are process:
 
@@ -17,9 +22,13 @@ n. the act of casting down or falling headlong from a height
 n. an unexpected acceleration or hastening
 
 
+
+
 Passing a single argument to determine what categories a term belongs to:
 
-$ python ontology_category.py precipitation
+IN >>>$ python ontology_category.py precipitation
+
+OUT >>>
 
 precipitation has the following categories:
 
@@ -46,6 +55,8 @@ process
 n. overly eager speed (and possible carelessness)
 
 property
+
+
 
 =======
 Please see the iPython Notebook for a simple example of usage.
