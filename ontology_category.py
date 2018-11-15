@@ -140,7 +140,7 @@ class OntologyCategorizer():
     #   categories and source synset(s) for each category.       
     def what_is(self, term):
     
-        term_cat = pd.DataFrame(columns = ['term','wordnet_ss_index','definition','pos'])
+        term_cat = pd.DataFrame()
         term_ss = wordnet.synsets(term)
         loc = 0
         for ss in term_ss:
@@ -158,7 +158,7 @@ class OntologyCategorizer():
     # Determine whether the word senses of a term belong to a given category
     def is_cat(self, term, cat):
     
-        term_cat = pd.DataFrame(columns = ['term','wordnet_ss_index','definition','pos'])
+        term_cat = pd.DataFrame()
         term_ss = wordnet.synsets(term)
         loc = 0
         for ss in term_ss:
@@ -193,6 +193,33 @@ if __name__ == "__main__":
     import sys
     svo = init_svo()
     if len(sys.argv) == 2:
-        print(svo.whatis(sys.argv[1]))
+        whatis = svo.what_is(sys.argv[1])
+        print(sys.argv[1]+' has the following categories:')
+        found = False
+        cols = whatis.columns.values
+        for _,row in whatis.iterrows():
+            cats = []
+            if 'object' in cols and (row['object']=='yes'):
+                cats.append('object')
+            if 'process' in cols and (row['process']=='yes'):
+                cats.append('process')
+            if 'property' in cols and (row['property']=='yes'):
+                cats.append('property') 
+            if 'state' in cols and (row['state']=='yes'):
+                cats.append('state')
+            if cats != []:
+                found = True
+                print(row['pos']+'. '+row['definition'])
+                print('\t'+', '.join(cats))
+        if not found:
+            print('\tnone')
     elif len(sys.argv) == 3:
-        print(svo.iscat(sys.argv[1],sys.argv[2]))
+        iscat = svo.is_cat(sys.argv[1],sys.argv[2])
+        print('The following definitions of '+sys.argv[1]+' are '+sys.argv[2]+':')
+        found = False
+        for _, row in iscat.iterrows():
+            if row[sys.argv[2]]=='yes':
+                print(row['pos']+'. '+row['definition'])
+                found = True
+        if not found:
+            print('\tnone')
