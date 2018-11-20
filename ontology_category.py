@@ -35,8 +35,11 @@ class OntologyCategory:
             self.name = name
         self.synsets = set()
         self.verb = False
+        self.adj = False
         if self.name == 'process':
             self.verb = True
+        if self.name == 'attribute':
+            self.adj = True
         if not synset_list is None:
             if isinstance(synset_list, list):
                 ssit = synset_list
@@ -72,6 +75,8 @@ class OntologyCategory:
     def is_hypernym_of(self,hypernym_tree):
         def is_verb(term):
             return term.pos()=='v'
+        def is_adj(term):
+            return (term.pos()=='a') or (term.pos()=='s')
         hyp = []
         for ss in hypernym_tree:
             for name, index, sss in self.synsets:
@@ -80,6 +85,9 @@ class OntologyCategory:
             if self.verb:
                 if is_verb(ss):
                     hyp.append('verb')
+            if self.adj:
+                if is_adj(ss):
+                    hyp.append('adjective')
         if hyp != []:
             hyp.append(self.name)
         return hyp
@@ -156,7 +164,7 @@ class OntologyCategorizer():
         return term_cat.fillna('no')
 
     # Determine whether the word senses of a term belong to a given category
-    def is_cat(self, term, cat):
+    def is_cat(self, term, cat, out = 'long'):
     
         term_cat = pd.DataFrame()
         term_ss = wordnet.synsets(term)
@@ -168,16 +176,21 @@ class OntologyCategorizer():
             term_cat.loc[index,'definition']=ss.definition()
             term_cat.loc[index,'pos']=ss.pos()
             term_cat.loc[index,cat]= 'yes' if self.iscat_ss(ss,cat) else 'no' 
-            loc += 1        
-        return term_cat
+            loc += 1
+        if out == 'long':
+            return term_cat
+        elif term_cat.empty:
+            return False
+        else:
+            return (term_cat[cat]=='yes').any()
     
 # Initialize the Scientific Variabes Ontology categorizer
 #       return: object of class OntologyCategorizer
 def init_svo():
     process_synsets  = ['process', {'process':[1,5], 'act':[1,5,6], \
                                 'action':[0,1,3,4], 'event':[0] } ]
-    property_synsets = ['property', {'property':[1,3], 'attribute':[0,1], \
-                                 'quantity':[0,2], 'amount':[0,2], \
+    property_synsets = ['property', {'property':[1,3], 'attribute':[0,1] } ]
+    quantity_synsets = ['quantity', {'quantity':[0,2], 'amount':[0,2], \
                                  'ratio':[0], 'quantitative_relation':[0], \
                                  'distance':[0] } ]
     object_synsets   = ['object', {'object':[0,2,3,4], 'system':[1,4,5], \
@@ -185,9 +198,10 @@ def init_svo():
                                'form':[2,3,5,6], 'biological_group':[0], \
                                'body_of_water':[0], 'part':[2] } ]
     state_synsets = [ 'state', {'condition':[0,1,2], 'state':[1,4]}  ]
+    attr_synsets = [ 'attribute', {}  ]
 
-    return OntologyCategorizer('svo',[process_synsets, property_synsets, \
-                                object_synsets, state_synsets ])
+    return OntologyCategorizer('svo',[process_synsets, property_synsets, quantity_synsets,\
+                                object_synsets, state_synsets, attr_synsets ])
 
 if __name__ == "__main__":
     import sys
