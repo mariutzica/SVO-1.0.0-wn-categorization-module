@@ -14,6 +14,9 @@ Description: This module contains the classes and function definitions for
 import pandas as pd
 #import nltk
 #nltk.download('wordnet')
+#nltk.download('brown')
+#nltk.download('punkt')
+#nltk.download('averaged_perceptron_tagger')
 from nltk.corpus import wordnet
 
 
@@ -114,6 +117,10 @@ class OntologyCategorizer():
     def get_category(self, cat):
         return [c for c in self.categories if c.name==cat][0]
     
+    # return list of category names 
+    def get_categories(self):
+        return [c.name for c in self.categories]
+    
     # remove a scategory by name
     def remove_category(self, name):
         rem = [r for r in self.categories if r.name==name]
@@ -193,7 +200,7 @@ def init_svo():
     quantity_synsets = ['quantity', {'quantity':[0,2], 'amount':[0,2], \
                                  'ratio':[0], 'quantitative_relation':[0], \
                                  'distance':[0] } ]
-    object_synsets   = ['object', {'object':[0,2,3,4], 'system':[1,4,5], \
+    object_synsets   = ['phenomenon', {'object':[0,2,3,4], 'system':[1,4,5], \
                                'phenomenon':[0], 'body':[0,3,8], 'matter':[2], \
                                'form':[2,3,5,6], 'biological_group':[0], \
                                'body_of_water':[0], 'part':[2] } ]
@@ -213,7 +220,7 @@ if __name__ == "__main__":
         cols = whatis.columns.values
         for _,row in whatis.iterrows():
             cats = []
-            if 'object' in cols and (row['object']=='yes'):
+            if 'phenomenon' in cols and (row['object']=='yes'):
                 cats.append('object')
             if 'process' in cols and (row['process']=='yes'):
                 cats.append('process')
