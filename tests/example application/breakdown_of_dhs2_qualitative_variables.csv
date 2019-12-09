@@ -1,0 +1,102 @@
+,variable name phrase,property nouns,process nouns,phenomenon nouns,state attribute or value nouns,suggested phenomenon,suggested property,suggested process,suggested attribute or value,possible name
+0,household,,,,,,,,,___
+1,yes,,,,,,,,,___
+2,sex,"sex,","sex,",,"sex,",,sex,,,___sex
+3,household schedule,,"schedule,",,,,,schedule,,__schedule_
+4,relationship to head of household,"relationship,head,",,"head,","relationship,",,head,,relationship ,___head
+5,marital status,"status,",,,"status,",,status,,,___status
+6,school level,"school,level,","school,level,","school,",,,level,school,,__school_level
+7,birth registration,,"birth,registration,",,,,,birth registration,,__birth_registration_
+8,household characteristics,"characteristics,",,,,,characteristics,,,___characteristics
+9,main sources of water,,"water,","sources,water,",,sources water,,,,sources_water___
+10,location,,,,,,,,,___
+11,methods to make drinking water safer,,"methods,drinking,water,","water,","safer,",water,,methods drinking,safer ,water__methods_drinking_
+12,toilet facility in use,"toilet,facility,","toilet,facility,use,","toilet,facility,","toilet,facility,",facility ,toilet,use,,facility__use_toilet
+13,type of fuel,"type,","type,","fuel,",,fuel,type,,,fuel___type
+14,cooking location,,,,,,,,,___
+15,animals owned by household,,,"animals,",,animals,,,,animals___
+16,household items,,,"items,",,items,,,,items___
+17,member items,,,"member,items,",,member items,,,,member_items___
+18,frequency,"frequency,",,,,,frequency,,,___frequency
+19,mosquito nets,"nets,","nets,","mosquito,nets,",,mosquito,nets,,,mosquito___nets
+20,observed,,,,,,,,,___
+21,mosquito net brand,,"brand,","brand,",,,,brand,,__brand_
+22,which forum the net was gotten from,,,,,,,,,___
+23,where the net was got,,,,,,,,,___
+24,additional household characteristics,"characteristics,",,,,,characteristics,,,___characteristics
+25,location where hands are washed,"hands,","hands,","hands,",,hands,location,location,,hands__location_location
+26,available,,,,,,,,,___
+27,items used for washing hands,"hands,","hands,","items,hands,",,items,hands,,,items___hands
+28,floor material,,"floor,","floor,material,",,material,,floor,,material__floor_
+29,roof material,,,"material,",,material,,,,material___
+30,wall material,"wall,","wall,","wall,material,","wall,",material,wall,,,material___wall
+31,salt used,,,"salt,",,salt,,,,salt___
+32,woman,,,"woman,",,woman,,,,woman___
+33,contraception,,"contraception,",,,,,contraception,,__contraception_
+34,method of contraception,,"method,contraception,",,,,,method contraception,,__method_contraception_
+35,medical facility,"facility,","facility,","facility,","facility,",,facility,,,___facility
+36,source of contraception,,"source,contraception,","source,",,source,,contraception,,source__contraception_
+37,pregnancy and postnatal care ,"pregnancy,care,","care,",,"pregnancy,postnatal,care,",,care,,pregnancy postnatal ,___care
+38,health attendant,"health,","attendant,","attendant,","health,attendant,",,health,attendant,,__attendant_health
+39,location of antenatal care,"care,","care,",,"care,",,,,care ,___
+40,source of sp,,"source,","source,",,,,source,,__source_
+41,size,"size,","size,","size,","size,size,",,size,,size ,___size
+42,vaccination card,,"vaccination,card,","card,",,card,,vaccination,,card__vaccination_
+43,child immunization(last birth),,"immunization,birth,","child,",,child,,immunization birth,,child__immunization_birth_
+44,oral polio vaccination,"polio,","vaccination,",,"polio,",,oral,vaccination,polio ,__vaccination_oral
+45,child health and nutrition,"health,","nutrition,","child,nutrition,","health,",,child,nutrition,health ,__nutrition_child
+46,quantity of milk,"quantity,","milk,","milk,",,milk,quantity,,,milk___quantity
+47,quantity of food,"quantity,",,"food,",,food,quantity,,,food___quantity
+48,pill,,,"pill,",,pill,,,,pill___
+49,drugs,,"drugs,","drugs,",,,,drugs,,__drugs_
+50,duration,"duration,",,,,,duration,,,___duration
+51,toilet disposal,"toilet,","toilet,disposal,","toilet,","toilet,",,toilet,disposal,,__disposal_toilet
+52,marriage and sexual activity,"marriage,activity,","marriage,",,"marriage,",,activity,marriage,,__marriage_activity
+53,woman's marital status ofliving,"status,",,"woman,","status,",woman,woman's,,status ,woman___woman's
+54,woman's living status,"status,","living,","woman,","status,",woman,status,living,,woman__living_status
+55,once,,,,,,,,,___
+56,woman's relationship to the last person one had sexual intercourse,"relationship,","intercourse,","woman,person,","relationship,",woman person,woman's,intercourse,relationship ,woman_person__intercourse_woman's
+57,fertility preferences,"fertility,preferences,","preferences,",,"preferences,",,fertility,preferences,,__preferences_fertility
+58,preference to having more children,"preference,","preference,","children,","preference,",children,preference,,,children___preference
+59,how soon one wants to wait before the birth of another child,,"birth,","child,",,child,,birth,,child__birth_
+60,reasons why the respondent is not using a method to prevent pregnancy,"reasons,pregnancy,","reasons,method,","respondent,","reasons,respondent,pregnancy,",respondent ,pregnancy,method,reasons ,respondent__method_pregnancy
+61,decision maker on contraceptives,,"decision,","maker,contraceptives,",,maker contraceptives,,decision,,maker_contraceptives__decision_
+62,partners decision on the number of kids,"number,","partners,decision,kids,","partners,kids,",,partners kids,number,decision,,partners_kids__decision_number
+63,husband's background and woman's work,,"husband,work,","husband,woman,work,",,husband woman,,work,,husband_woman__work_
+64,person working for,,,"person,",,person,,,,person___
+65,period of working,"period,",,,,,period,,,___period
+66,form of payment,,"form,payment,",,,,,form payment,,__form_payment_
+67,earning comparison between respondent and partner,"comparison,","comparison,partner,","respondent,partner,","respondent,",partner,earning,comparison,respondent ,partner__comparison_earning
+68,decision maker ,,"decision,","maker,",,maker,,decision,,maker__decision_
+69,ownership,"ownership,","ownership,",,"ownership,",,ownership,,,___ownership
+70,hiv,"hiv,",,"hiv,","hiv,",,hiv,,,___hiv
+71,places of taking the hiv,"places,hiv,","places,","places,hiv,","places,hiv,",hiv ,places,,,hiv___places
+72,other health issues,"health,issues,","issues,","issues,","health,",,issues,,health ,___issues
+73,frequency of smoking,"frequency,","smoking,",,,,frequency,smoking,,__smoking_frequency
+74,types of tobacco,,"types,","types,tobacco,",,tobacco,,types,,tobacco__types_
+75,health insurance,"health,insurance,",,,"health,insurance,",,insurance,,health ,___insurance
+76,man,,"man,","man,",,,,man,,__man_
+77,respondent background,,,"respondent,","respondent,",respondent ,,,,respondent___
+78,city,,,"city,",,city,,,,city___
+79,literacy,,,,,,,,,___
+80,frequency,"frequency,",,,,,frequency,,,___frequency
+81,present,"present,","present,",,"present,",,present,,,___present
+82,health,"health,",,,"health,",,health,,,___health
+83,contraception,,"contraception,",,,,,contraception,,__contraception_
+84,frequency of intake of fluids to be given during diarrhoea,"frequency,","intake,","fluids,",,fluids,frequency,intake,,fluids__intake_frequency
+85,modes of communication,"modes,","communication,",,"modes,",,modes,communication,,__communication_modes
+86,likelihood period of a woman getting pregnant around her menstral periods,"period,periods,","periods,","woman,",,woman,period,periods,,woman__periods_period
+87,marriage and sexual activity,"marriage,activity,","marriage,",,"marriage,",,activity,marriage,,__marriage_activity
+88,man's marital status of living,"status,","man,living,","man,","status,",man,status,living,,man__living_status
+89,man's living status,"status,","man,living,","man,","status,",man,status,living,,man__living_status
+90,man's relationship to the last person one had sexual intercourse,"relationship,","man,intercourse,","man,person,","relationship,",man person,man's,intercourse,relationship ,man_person__intercourse_man's
+91,fertility preferences,"fertility,preferences,","preferences,",,"preferences,",,fertility,preferences,,__preferences_fertility
+92,man's preference to having more children,"preference,","man,preference,","man,children,","preference,",man children,man's,man's,preference ,man_children__man's_man's
+93,other health issues,"health,issues,","issues,","issues,","health,",,issues,,health ,___issues
+94,personnel performing circumcision,"circumcision,","circumcision,",,,,circumcision,,,___circumcision
+95,place of circumcision,"circumcision,","place,circumcision,",,,,,place circumcision,,__place_circumcision_
+96,biomarker,,,,,,,,,___
+97,reason for not taking measurement,"reason,","reason,measurement,",,"reason,",,reason,measurement,,__measurement_reason
+98,measurement position taken,,"position,",,,,,position,,__position_
+99,fieldworker,,,"fieldworker,",,fieldworker,,,,fieldworker___
+100,permanent,,,"permanent,","permanent,",permanent ,,,,permanent___

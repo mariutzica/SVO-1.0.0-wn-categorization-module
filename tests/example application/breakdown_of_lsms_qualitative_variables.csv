@@ -1,0 +1,273 @@
+,variable name phrase,property nouns,process nouns,phenomenon nouns,state attribute or value nouns,suggested phenomenon,suggested property,suggested process,suggested attribute or value,possible name
+0,sex,"sex,","sex,",,"sex,",,sex,,,___sex
+1,yes,,,,,,,,,___
+2,yes,,,,,,,,,___
+3,frequency,"frequency,",,,,,frequency,,,___frequency
+4,satisfaction,"satisfaction,","satisfaction,",,"satisfaction,",,satisfaction,,,___satisfaction
+5,distance,"distance,",,,,,distance,,,___distance
+6,time,"time,",,,,,time,,,___time
+7,time unit,"time,",,"unit,",,unit,time,,,unit___time
+8,house roster,,"house,","house,",,,,house,,__house_
+9,household roster,,,,,,,,,___
+10,relationship to head,"relationship,",,,"relationship,",,relationship,,,___relationship
+11,marital status,"status,",,,"status,",,status,,,___status
+12,children of household members who are living elsewhere and not members of the household ,,,"children,members,members,",,children members members,,,,children_members_members___
+13,place of residence,,"place,residence,","residence,",,residence,,place,,residence__place_
+14,education,"education,","education,",,,,education,,,___education
+15,short module (education),"education,","education,","module,",,module,short,education,,module__education_short
+16,type of school,"type,school,","type,school,","school,",,school,type,,,school___type
+17,general education ,"education,","education,",,,,education,,,___education
+18,literacy,,,,,,,,,___
+19,numeracy,,,,,,,,,___
+20,school,"school,","school,","school,",,,school,,,___school
+21,type of diploma attained,"type,","type,",,,,type,,,___type
+22,major field of study in post-secondary education,"education,","study,education,","field,study,",,field study,,education,,field_study__education_
+23,successfully completed school,"school,","school,","school,",,,school,,,___school
+24,public,,,,,,,,,___
+25,education in last 12 months ,"education,months,","education,",,,,months,education,,__education_months
+26,who paid educational expenses,,"expenses,",,,,,expenses,,__expenses_
+27,mode of transportation,"mode,","transportation,",,,,mode,transportation,,__transportation_mode
+28,"expanded module, additional questions for part b ","questions,b,","questions,","module,b,",,module,b,questions,,module__questions_b
+29,has a complete set of textbooks,,"set,","textbooks,",,textbooks,,set,,textbooks__set_
+30,how textbooks obtained,,,"textbooks,",,textbooks,,,,textbooks___
+31,textbooks shared ,,,"textbooks,",,textbooks,,,,textbooks___
+32,kind of meal received at school,"meal,school,","school,","meal,school,","kind,",meal school,,,kind ,meal_school___
+33,meal,"meal,",,"meal,",,,meal,,,___meal
+34,apprenticeship and training ,,"apprenticeship,training,",,,,,apprenticeship training,,__apprenticeship_training_
+35,ever been an apprentice ,,"apprentice,","apprentice,",,,,apprentice,,__apprentice_
+36,ever received formal professional traini,,,"professional,","professional,",professional ,,,,professional___
+37,distances to local schools,"distances,schools,","distances,schools,","distances,schools,","distances,",,schools,distances,,__distances_schools
+38,type of school,"type,school,","type,school,","school,",,school,type,,,school___type
+39,health,"health,",,,"health,",,health,,,___health
+40,short module (health),"health,",,"module,","health,",module,short,,health ,module___short
+41,health compared with 1 year ago ,"health,year,",,,"health,",,year,,health ,___year
+42,diarrhoea treatment,,"treatment,",,,,,treatment,,__treatment_
+43,type of health insurance ,"type,health,insurance,","type,",,"health,insurance,",,type,,health insurance ,___type
+44,self reported health status,"self,health,status,",,"self,","self,self,health,status,",self ,status,,self health ,self___status
+45,ability,"ability,",,,,,ability,,,___ability
+46,"expanded module, additional questions for part a","questions,","questions,","module,",,module,expanded,questions,,module__questions_expanded
+47,frequency,"frequency,",,,,,frequency,,,___frequency
+48,health related behaviors ,"health,behaviors,","behaviors,",,"health,behaviors,",,behaviors,,health ,___behaviors
+49,still smokes,"smokes,","smokes,","smokes,",,,smokes,,,___smokes
+50,still chews tobacco ,,,"tobacco,",,tobacco,,,,tobacco___
+51,type of sports played,"type,","type,sports,","sports,",,sports,type,,,sports___type
+52,respiration when playing sports,,"respiration,playing,sports,","sports,",,sports,,respiration playing,,sports__respiration_playing_
+53,why plays sports,"plays,","plays,sports,","sports,","plays,",,why,sports,plays ,__sports_why
+54,sexually transmitted disease,"disease,",,,"disease,",,disease,,,___disease
+55,protection against sexually transmitted disease,"disease,","protection,",,"disease,",,disease,protection,,__protection_disease
+56,child immunization,,"immunization,","child,",,child,,immunization,,child__immunization_
+57,up to date,"date,","date,",,,,date,,,___date
+58,insurance coverage ,"insurance,coverage,",,,"insurance,",,coverage,,insurance ,___coverage
+59,type of health insurance ,"type,health,insurance,","type,",,"health,insurance,",,type,,health insurance ,___type
+60,amount code ,"amount,",,,,,amount,,,___amount
+61,directly observed activities of daily living ,"activities,","activities,living,",,"activities,",,activities,living,,__living_activities
+62,able to rotate shoulder ,,"shoulder,","shoulder,",,,,shoulder,,__shoulder_
+63,cognitive functioning ,,"functioning,",,"functioning,",,,functioning,,__functioning_
+64,correct,,"correct,",,,,,correct,,__correct_
+65,present,"present,","present,",,"present,",,present,,,___present
+66,detailed utilization and expenditure ,,"utilization,expenditure,",,,,,utilization expenditure,,__utilization_expenditure_
+67,health care provider,"health,care,","care,","provider,","health,care,",provider,health,health,care ,provider__health_health
+68,purpose of the visit,"purpose,","purpose,visit,",,,,purpose,visit,,__visit_purpose
+69,first visit,,"visit,",,,,,visit,,__visit_
+70,treatment received,,"treatment,",,,,,treatment,,__treatment_
+71,reason for hospitalization,"reason,hospitalization,","reason,hospitalization,",,"reason,hospitalization,",,hospitalization,reason,,__reason_hospitalization
+72,type of hospital room ,"type,room,","type,room,","hospital,room,","room,",hospital,type,,room ,hospital___type
+73,treatment received,,"treatment,",,,,,treatment,,__treatment_
+74,health care facility,"health,care,facility,","care,facility,","facility,","health,care,facility,",,facility,health,care ,__health_facility
+75,employment,"employment,","employment,",,"employment,",,employment,,,___employment
+76,labor force participation ,"force,","labor,force,participation,",,,,labor,force participation,,__force_participation_labor
+77,all yes,,,,,,,,,___
+78,main reason for not working,"reason,","reason,",,"reason,",,main,main,reason ,__main_main
+79,main reason for not looking for work,"reason,","reason,work,","work,","reason,",,main,work,reason ,__work_main
+80,labor force participation ,"force,","labor,force,participation,",,,,labor,force participation,,__force_participation_labor
+81,method used to find work,,"method,work,","work,",,work,,method,,work__method_
+82,weeks looked for work all at once,"weeks,","work,","work,",,work,weeks,weeks,,work__weeks_weeks
+83,labor force participation ,"force,","labor,force,participation,",,,,labor,force participation,,__force_participation_labor
+84,any yes or blank,,"blank,","blank,","blank,",,,blank,,__blank_
+85,main reason for not working 5 years ago ,"reason,years,","reason,",,"reason,",,years,main,reason ,__main_years
+86,overview of work in last 7 days and last 12 months,"days,months,","work,","work,","days,",work,months,,days ,work___months
+87,place and employer of work ,,"place,work,","employer,work,",,employer work,,place,,employer_work__place_
+88,nb of activities in last 7 days ,"activities,days,","activities,","nb,","activities,days,",nb,,,activities days ,nb___
+89,main and secondary job in the last 7 days,"job,days,","job,","job,","job,days,",job ,days,main,,job__main_days
+90,place of work,,"place,work,","work,",,work,,place,,work__place_
+91,status in employment ,"status,employment,","employment,",,"status,employment,",,employment,,status ,___employment
+92,type of employer ,"type,","type,","employer,",,employer,type,,,employer___type
+93,main reason for not receiving payment for work ,"reason,","reason,payment,work,","work,","reason,",work,main,payment,reason ,work__payment_main
+94,main and secondary job in the last 7 days ,"job,days,","job,","job,","job,days,",job ,days,main,,job__main_days
+95,mode of transportation to work,"mode,","transportation,",,,,mode,transportation,,__transportation_mode
+96,before,,,,,,,,,___
+97,main method to determine pay,,"method,pay,",,,,,method pay,,__method_pay_
+98,main reason for not working in the job ,"reason,job,","reason,job,","job,","reason,job,",,job,main,reason ,__main_job
+99,main and secondary job in the last 7 days ,"job,days,","job,","job,","job,days,",job ,days,main,,job__main_days
+100,main reason for losing the job,"reason,job,","reason,job,","job,","reason,job,",,job,main,reason ,__main_job
+101,type of work of owner ,"type,","type,work,","work,owner,",,owner,type,work,,owner__work_type
+102,employed and paid directly by firm,,"firm,",,"firm,",,,firm,,__firm_
+103,time expected the work to last,"time,","work,","work,",,work,time,time,,work__time_time
+104,place obtained skills,,"place,",,,,,place,,__place_
+105,type of employer ,"type,","type,","employer,",,employer,type,,,employer___type
+106,still learning to do the work well ,,"work,","work,",,work,,still,,work__still_
+107,overview of work five years ago ,"years,","work,","work,",,work,years,,,work___years
+108,most important activity 5 years ago,"activity,years,",,,,,activity years,,,___activity_years
+109,anthropometry ,,"anthropometry,",,,,,anthropometry,,__anthropometry_
+110,reason child was not measured,"reason,","reason,","child,","reason,",child,reason,,,child___reason
+111,height measured lying down or standing up ,"height,",,,,,height,,,___height
+112,housing,,"housing,","housing,",,,,housing,,__housing_
+113,part a.  description of the dwelling,,"description,dwelling,","dwelling,",,dwelling,,description,,dwelling__description_
+114,residence,,"residence,","residence,",,,,residence,,__residence_
+115,material of the external walls,"walls,","walls,","material,walls,","walls,",material,,,walls ,material___
+116,material of the roof,,"roof,","material,roof,",,material roof,,,,material_roof___
+117,material of the floor,,"floor,","material,floor,",,material floor,,,,material_floor___
+118,type of dwelling,"type,","type,",,,,type,,,___type
+119,part b. housing services,"services,","housing,services,","housing,services,",,housing,services,part,,housing__part_services
+120,main source of drinking water ,,"source,drinking,water,","source,water,",,source water,,drinking,,source_water__drinking_
+121,type of water treatment,"type,","type,water,treatment,","water,",,water,type,treatment,,water__treatment_type
+122,main source of bathing,,"source,","source,",,,,source,,__source_
+123,placing of bathing,,"placing,",,,,,placing,,__placing_
+124,type of toilet facility,"type,toilet,facility,","type,toilet,facility,","toilet,facility,","toilet,facility,",toilet facility ,type,,,toilet_facility___type
+125,type of toilet disposal system,"type,toilet,system,","type,toilet,disposal,","toilet,system,","toilet,",system,type,disposal,toilet ,system__disposal_type
+126,toilet facility shared,"toilet,facility,","toilet,facility,","toilet,facility,","toilet,facility,",facility ,toilet,toilet,,facility__toilet_toilet
+127,source of lighting,,"source,","source,",,,,source,,__source_
+128,type of electric meter,"type,meter,","type,meter,","meter,",,meter,type,,,meter___type
+129,cooking fuel,,,"fuel,",,fuel,,,,fuel___
+130,heating fuel,,,"fuel,",,fuel,,,,fuel___
+131,main source of hot water,,"source,water,","source,water,",,water,,source,,water__source_
+132,location ,,,,,,,,,___
+133,location of nearest telephone,,"telephone,","telephone,",,telephone,,,,telephone___
+134,disposal of garbage,,"disposal,","garbage,",,garbage,,disposal,,garbage__disposal_
+135,dwelling expenditures,,"dwelling,expenditures,","dwelling,",,dwelling,,expenditures,,dwelling__expenditures_
+136,how dwelling was obtained,,"dwelling,","dwelling,",,dwelling,,how,,dwelling__how_
+137,type of legal title to the dwelling,"type,title,","type,title,dwelling,","dwelling,","title,",dwelling,type,,title ,dwelling___type
+138,time unit,"time,",,"unit,",,unit,time,,,unit___time
+139,from whom do you rent this dwelling,,"dwelling,","dwelling,",,,,dwelling,,__dwelling_
+140,rent inclusion,"rent,","rent,inclusion,","rent,",,,rent,inclusion,,__inclusion_rent
+141,monthly payments,,"payments,",,,,,payments,,__payments_
+142,non-household member pay (part of) rent,"rent,","pay,rent,","member,rent,",,member,rent,pay,,member__pay_rent
+143,who pay(part of) rent,"rent,","rent,","rent,",,,rent,,,___rent
+144,planned moves and upgrades,,"moves,upgrades,","upgrades,",,upgrades,,moves,,upgrades__moves_
+145,plan to move within 12 months,"months,","plan,",,,,months,plan,,__plan_months
+146,motivation to move to new dwelling,"motivation,","motivation,dwelling,","dwelling,","motivation,",,motivation,dwelling,,__dwelling_motivation
+147,plan to buy or rent,,"plan,",,,,,plan,,__plan_
+148,consumption,,"consumption,",,,,,consumption,,__consumption_
+149,daily consumption,,"consumption,",,,,,consumption,,__consumption_
+150,consumed item,,,"item,",,item,,,,item___
+151,food consumption,,"consumption,","food,",,food,,consumption,,food__consumption_
+152,food consumed,,,"food,",,food,,,,food___
+153,quantity ,"quantity,",,,,,quantity,,,___quantity
+154,non food consumption,,"consumption,","food,",,food,,consumption,,food__consumption_
+155,non food consumed,,,"food,",,food,,,,food___
+156,remittances,,,,,,,,,___
+157,relationship to person,"relationship,",,"person,","relationship,",person,relationship,,,person___relationship
+158,kind of place recepient lives in,"lives,","place,lives,","lives,","kind,lives,",lives ,,place,kind ,lives__place_
+159,main reason for assistance,"reason,","reason,assistance,",,"reason,",,main,assistance,reason ,__assistance_main
+160,durables,,,"durables,",,durables,,,,durables___
+161,durable items,,,"items,",,items,,,,items___
+162,purchased,,,,,,,,,___
+163,credit,"credit,",,,,,credit,,,___credit
+164,details of credit,"credit,","details,",,,,credit,details,,__details_credit
+165,agricultural reason for obtaining loan,"reason,","reason,loan,",,"reason,",,agricultural,loan,reason ,__loan_agricultural
+166,non-agricultural reason for obtaining loan,"reason,","reason,loan,",,"reason,",,non-agricultural,loan,reason ,__loan_non-agricultural
+167, personal use reason for obtaining loan,"reason,","use,reason,loan,",,"reason,",,personal,use loan,reason ,__use_loan_personal
+168,source of the loan,,"source,loan,","source,",,source,,loan,,source__loan_
+169,training provided,,"training,",,,,,training,,__training_
+170,time unit,"time,",,"unit,",,unit,time,,,unit___time
+171,quantity unit,"quantity,",,"unit,",,unit,quantity,,,unit___quantity
+172,harvest value calculated,"value,","value,",,,,harvest,value,,__value_harvest
+173,collateral,,,,"collateral,",,,,collateral ,___
+174,frequency,"frequency,",,,,,frequency,,,___frequency
+175,frequency of payment,"frequency,","payment,",,,,frequency,payment,,__payment_frequency
+176,credit history ,"credit,history,",,,,,credit history,,,___credit_history
+177,reson for credit being refused,"credit,",,,,,credit,,,___credit
+178,reason for notattempting to borrow money,"reason,money,","reason,",,"reason,",,money,reason,,__reason_money
+179,relationship to borrower,"relationship,",,,"relationship,",,relationship,,,___relationship
+180,main reason borrower borrowed money,"reason,money,","reason,","borrower,","reason,",borrower,money,main,reason ,borrower__main_money
+181,form of loan repayment,,"form,loan,repayment,",,,,,form loan repayment,,__form_loan_repayment_
+182,environment,"environment,",,"environment,","environment,",,environment,,,___environment
+183,environmental priorities (urban) ,"priorities,",,,"priorities,",,environmental,,priorities ,___environmental
+184,urban,,,,,,,,,___
+185,urban environmental problem,"problem,",,,"problem,",,problem,,,___problem
+186,environmental priorities (rural),"priorities,",,,"priorities,",,environmental,,priorities ,___environmental
+187,rural environmental problem,"problem,",,,"problem,",,problem,,,___problem
+188,environmental attitudes and perceptions - urban air quality,"attitudes,quality,","attitudes,perceptions,","air,",,air,quality,attitudes perceptions,,air__attitudes_perceptions_quality
+189,air quality,"quality,",,"air,",,air,quality,,,air___quality
+190,source of pollution,,"source,pollution,","source,",,source,,pollution,,source__pollution_
+191,personal cotribution to air pollution,,"pollution,","air,",,air,,pollution,,air__pollution_
+192,consequences of air pollution,"consequences,","consequences,pollution,","consequences,air,",,air,consequences,pollution,,air__pollution_consequences
+193,contribution of air pollution to illness,,"contribution,pollution,","air,",,air,,contribution pollution,,air__contribution_pollution_
+194,stength of linkage between air quality and human health,"linkage,quality,health,","linkage,","linkage,air,","health,",linkage air,quality,,health ,linkage_air___quality
+195,importance of air quality improvement,"importance,quality,","improvement,","air,","importance,",air,quality,improvement,importance ,air__improvement_quality
+196,effect of air quality impovemet program on job,"effect,quality,job,","effect,program,job,","effect,air,job,","job,",effect air,quality,program,job ,effect_air__program_quality
+197,commitment,"commitment,","commitment,",,,,commitment,,,___commitment
+198,knowledge about air pollution compared to others,,"pollution,","air,",,air,,pollution,,air__pollution_
+199,water,,"water,","water,",,,,water,,__water_
+200,source of water,,"source,water,","source,water,",,water,,source,,water__source_
+201,quality,"quality,",,,,,quality,,,___quality
+202,water payment,,"water,payment,","water,",,water,,payment,,water__payment_
+203,method to collect water,,"method,water,","water,",,water,,method,,water__method_
+204,source of water by neighbours,,"source,water,neighbours,","source,water,neighbours,",,water neighbours,,source,,water_neighbours__source_
+205,source of water for vendors,,"source,water,","source,water,vendors,",,water vendors,,source,,water_vendors__source_
+206,water quantity,"quantity,","water,","water,",,,quantity,water,,__water_quantity
+207,water charges,"charges,","water,charges,","water,charges,","charges,",,charges,water,,__water_charges
+208,complaints on piped water system,"complaints,system,","complaints,water,","water,system,","complaints,",water,system,complaints,,water__complaints_system
+209,method to collect water from well,,"method,water,","water,",,water,,method,,water__method_
+210,tye of rainwater collection system used,"system,","collection,","rainwater,system,",,rainwater system,,collection,,rainwater_system__collection_
+211,household sanitation - attitudes and practices,"sanitation,attitudes,","sanitation,attitudes,practices,",,"sanitation,",,household,attitudes practices,sanitation ,__attitudes_practices_household
+212,quality,"quality,",,,,,quality,,,___quality
+213,place where toilet waste is discharged,"toilet,","place,toilet,waste,","toilet,waste,","toilet,",waste,place,place,toilet ,waste__place_place
+214,method used to empty septic tank,,"method,","tank,",,tank,,method,,tank__method_
+215,satisfaction,"satisfaction,","satisfaction,",,"satisfaction,",,satisfaction,,,___satisfaction
+216,quality,"quality,",,,,,quality,,,___quality
+217,place members go to relieve themselves,,"place,","members,",,members,,place,,members__place_
+218,fuel sources and uses,"uses,","uses,","fuel,sources,",,fuel sources,uses,,,fuel_sources___uses
+219,souce of fuel,,,"fuel,",,fuel,,,,fuel___
+220,primary,,,,,,,,,___
+221,detail on fuel by source,,"detail,source,","fuel,source,",,fuel source,,detail,,fuel_source__detail_
+222,fuel purpose,"purpose,","purpose,","fuel,",,fuel,purpose,,,fuel___purpose
+223,members who collects fuel source,,"source,","members,fuel,source,",,members fuel,,source,,members_fuel__source_
+224,proportions,"proportions,","proportions,","proportions,",,,proportions,,,___proportions
+225,source of dung,,"source,dung,","source,dung,",,dung,,source,,dung__source_
+226,households’ willingness to pay for improved water service - an example of a contingent valuation scenario (urban) ,"willingness,service,example,","water,service,valuation,","water,service,scenario,",,water service scenario,willingness example,valuation,,water_service_scenario__valuation_willingness_example
+227,vote for the new water supply project ,"vote,","vote,water,supply,project,","water,",,water,vote,supply project,,water__supply_project_vote
+228,would want to be connected to the new water supply system ,"system,","water,supply,","water,system,",,water,system,supply,,water__supply_system
+229,households’ willingness to pay for improved water service - an example of a contingent valuation scenario (rural - public taps only),"willingness,service,example,","water,service,valuation,taps,","water,service,scenario,taps,",,water service scenario taps,willingness example,valuation,,water_service_scenario_taps__valuation_willingness_example
+230,would pay monthly fee and use public taps,,"fee,taps,","taps,",,taps,,fee,,taps__fee_
+231,would buy water from public taps,,"water,taps,","water,taps,",,water,,taps,,water__taps_
+232,preferred payment system for public taps ,"system,","payment,taps,","system,taps,",,system taps,preferred,payment,,system_taps__payment_preferred
+233,households’ willingness to pay for improved sanitation - an example of a contingent valuation scenario for sewer connection (urban),"willingness,sanitation,example,","sanitation,valuation,connection,","scenario,","sanitation,",scenario,willingness example,valuation connection,sanitation ,scenario__valuation_connection_willingness_example
+234,familiarity,"familiarity,","familiarity,",,,,familiarity,,,___familiarity
+235,reason for not willing to pay ,"reason,","reason,",,"reason,",,reason,,,___reason
+236,main reason for agreeing to pay ,"reason,","reason,",,"reason,",,main,main,reason ,__main_main
+237,item would reduce expenditure to afford monthly fee,,"expenditure,fee,","item,",,item,,expenditure fee,,item__expenditure_fee_
+238,households’ willingness to pay for improved urban air quality - an example of a contingent valuation scenario ,"willingness,quality,example,","valuation,","air,scenario,",,air scenario,willingness quality example,valuation,,air_scenario__valuation_willingness_quality_example
+239,would vote for air pollution clean-up plan ,,"pollution,plan,","air,",,air,,pollution plan,,air__pollution_plan_
+240,certainity,,,,,,,,,___
+241,fertility,"fertility,",,,,,fertility,,,___fertility
+242,maternity history,"maternity,history,",,,"maternity,",,history,,maternity ,___history
+243,sex of child,"sex,","sex,","child,","sex,",child,sex,,,child___sex
+244,single,,,,,,,,,___
+245,want the child ,,,"child,",,child,,,,child___
+246,desire for more children,"desire,","desire,","children,","desire,",children,desire,,,children___desire
+247,reproductive health,"health,",,,"health,",,health,,,___health
+248,assitance at delivery,,"delivery,",,,,,delivery,,__delivery_
+249,place of delivery,,"place,delivery,",,,,,place delivery,,__place_delivery_
+250,contraceptive use,,"use,","contraceptive,","contraceptive,",contraceptive ,,use,,contraceptive__use_
+251,contraception method,,"contraception,method,",,,,,contraception method,,__contraception_method_
+252,place first heard of,,"place,heard,",,"heard,",,,place,heard ,__place_
+253,reason for not using,"reason,","reason,",,"reason,",,reason,,,___reason
+254,place obtained,,"place,",,,,,place,,__place_
+255,migration,,"migration,",,,,,migration,,__migration_
+256,short module (migration),,"migration,","module,",,module,,migration,,module__migration_
+257,reason for moving here ,"reason,","reason,",,"reason,",,reason,,,___reason
+258,facilities affected decision to move her,"facilities,","facilities,decision,","facilities,","facilities,",,facilities,decision,,__decision_facilities
+259,person who already lived here,,,"person,",,person,,,,person___
+260,person(s) lived with when first moved here ,"s,",,"person,s,",,person s,person(s),,,person_s___person(s)
+261,reason for not working in the last month lived in previous place of residence ,"reason,month,","reason,place,residence,","residence,","reason,",residence,month,place,reason ,residence__place_month
+262,main means of support before finding the first work,,"means,support,work,","means,work,",,means work,,support,,means_work__support_
+263,method used to find the first wage work ,"wage,","method,work,","work,",,work,wage,method,,work__method_wage
+264,yes,,,,,,,,,___
+265,filter for been living here for more than 5 years ,"years,","filter,","filter,",,,years,filter,,__filter_years
+266,relationship to person living in the same dwelling,"relationship,","dwelling,","person,dwelling,","relationship,",person,relationship,dwelling,,person__dwelling_relationship
+267,main activity,"activity,",,,,,activity,,,___activity
+268,lives in country,"lives,","lives,","lives,country,","lives,",country,lives,,,country___lives
+269,major field of study in post secondary education ,"education,","study,post,education,","field,study,post,",,field study post,,education,,field_study_post__education_
+270,type of school,"type,school,","type,school,","school,",,school,type,,,school___type
+271,contributor to pay fees,,"fees,","contributor,",,contributor,,fees,,contributor__fees_

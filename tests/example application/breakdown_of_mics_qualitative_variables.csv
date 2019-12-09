@@ -1,0 +1,29 @@
+,variable name phrase,property nouns,process nouns,phenomenon nouns,state attribute or value nouns,suggested phenomenon,suggested property,suggested process,suggested attribute or value,possible name
+0,yes,,,,,,,,,___
+1,gender,"gender,",,,,,gender,,,___gender
+2,relastionship to head of household,"head,",,"head,",,,head,,,___head
+3,lives,"lives,","lives,","lives,","lives,",,lives,,,___lives
+4,education,"education,","education,",,,,education,,,___education
+5,dwelling floor,,"floor,","floor,",,,,floor,,__floor_
+6,roof material,,,"material,",,material,,,,material___
+7,exterior wall material,,,"material,",,material,,,,material___
+8,household items,,,"items,",,items,,,,items___
+9,household animals,,,"animals,",,animals,,,,animals___
+10,cooking stove,,"stove,","stove,",,,,stove,,__stove_
+11,cooking fuel,,,"fuel,",,fuel,,,,fuel___
+12,cooking location,,,,,,,,,___
+13,space heating,"space,","space,heating,","space,",,,space,heating,,__heating_space
+14,space heating fuel and energy source,"space,energy,","space,source,","space,fuel,source,",,space fuel,energy,source,,space_fuel__source_energy
+15,net source,,"source,","source,",,,,source,,__source_
+16,main source of drinking water,,"source,drinking,water,","source,water,",,source water,,drinking,,source_water__drinking_
+17,main source of water for household chores,,"source,water,chores,","source,water,",,source water,,chores,,source_water__chores_
+18,location,,,,,,,,,___
+19,methods to make water safe,,"methods,water,","water,",,water,,methods,,water__methods_
+20,toilet facility,"toilet,facility,","toilet,facility,","toilet,facility,","toilet,facility,",,facility,toilet,,__toilet_facility
+21,frequency of emptying toilet facility,"frequency,toilet,facility,","toilet,facility,","toilet,facility,","toilet,facility,",toilet facility ,frequency,,,toilet_facility___frequency
+22,where was the toiley facility emptied to?,"facility,","facility,","facility,","facility,",facility ,where,where,,facility__where_where
+23,sharing privately,,,,,,,,,___
+24,location of washing hands,"hands,","hands,","hands,",,hands,,,,hands___
+25,water availability,"availability,","water,","water,",,,availability,water,,__water_availability
+26,present,"present,","present,",,"present,",,present,,,___present
+27,salt test,,"test,","salt,",,salt,,test,,salt__test_

@@ -1,0 +1,213 @@
+Question,Variables
+Yes/No/Don't Know,Yes
+,No
+,Don't Know
+Gender/Sex,Male
+,Female
+Relastionship to head of household,Head
+,Spouse / partner
+,Son / daughter
+,Son-in-law / daughter-in-law
+,Grandchild
+,Parent
+,Parent-in-law
+,Brother / sister
+,Brother-in-law / sister-in-law
+,Uncle/aunt
+,Niece / nephew
+,Other relative
+,Adopted / foster / stepchild
+,Servant (live-in)
+,Other (not related)
+Lives,Abroad
+,In another household in the same region
+,In another household in another region
+,Institution in this country
+Education,Primary
+,Lower secondary
+,Upper secondary
+,Higher
+Dwelling Floor,Earth / sand
+,Dung
+,Wood planks
+,Palm / bamboo
+,Parquet or polished wood
+,Vinyl or asphalt strips
+,Ceramic tiles
+,Cement
+,Carpet
+Roof Material,No roof
+,Thatch / palm leaf
+,Sod
+,Rustic mat
+,Palm / bamboo
+,Wood planks
+,Cardboard
+,Metal / tin
+,Wood
+,Calamine / cement fibre
+,Ceramic tiles
+,Cement
+,Roofing shingles
+Exterior wall Material,No walls
+,Cane / palm / trunks
+,Dirt
+,Bamboo with mud
+,Stone with mud
+,Uncovered adobe
+,Plywood
+,Cardboard
+,Reused wood
+,Cement
+,Stone with lime / cement
+,Bricks
+,Cement blocks
+,Covered adobe
+,Wood planks / shingles
+Household items,Fixed Telephone line
+,Radio
+,Telephone
+,Refrigerator
+,Wrist watch
+,Bicycle
+,Motorcycle/Scooter
+,Animal-Drawn cart
+,Car/truck/van
+,Boat with motor
+Household animals,Milk cows/Bulls
+,Other cattle
+,Horses/donkey pr mule
+,Goats
+,Sheep
+,Chicken
+,Pigs
+Cooking stove,Electric stove
+,Solar cooker
+,Liquefied petroleum gas (lpg)/ cooking gas stove
+,Piped natural gas stove
+,Biogas stove
+,Liquid fuel stove
+,Manufactured solid fuel stove
+,Traditional solid fuel stove
+,Three stone stove / open fire
+,No food cooked in household
+Cooking fuel,Alcohol / ethanol
+,Gasoline / diesel
+,Kerosene / paraffin
+,Coal / lignite
+,Charcoal
+,Wood
+,Crop residue / grass / straw / shrubs
+,Animal dung / waste
+,Processed biomass (pellets) or woodchips
+,Garbage / plastic
+,Sawdust
+Cooking location,In main house: no separate room
+,In main house: in a separate room
+,In a separate building
+,Outdoors: Open air
+,Outdoors: On veranda/ covered porch
+Space heating,Central heating
+,Manufactured space heater
+,Traditional space heater
+,Manufactured cookstove
+,Traditional cookstove
+,Three stone stove / open fire
+,No space heating in household
+Space heating fuel and energy source,Electricity
+,Solar lantern
+,"Rechargeable flashlight, torch or lantern"
+,"Battery powered flashlight, torch or lantern"
+,Biogas lamp
+,Gasoline lamp
+,Kerosene or paraffin lamp
+,Charcoal
+,Wood
+,Crop residue / grass / straw / shrubs
+,Animal dung / waste
+,Oil lamp
+,Candle
+,No lighting in household
+Net source,Government health facility
+,Private health facility
+,Pharmacy
+,Shop / market / street
+,Community health worker
+,Religious institution
+,School
+Main source of drinking water,Piped into dwelling
+,Piped to yard / plot
+,Piped to neighbour
+,Public tap / standpipe
+,Tube well / borehole
+,Protected well
+,Unprotected well
+,Protected spring
+,Unprotected spring
+,Rainwater
+,Tanker-truck
+,Cart with small tank
+,Water kiosk
+,"Surface water (river, dam, lake, pond, stream, canal, irrigation channel)"
+,Bottled water
+,Sachet water
+Main source of water for household chores,Piped into dwelling
+,Piped to yard / plot
+,Piped to neighbour
+,Public tap / standpipe
+,Tube well / borehole
+,Protected well
+,Unprotected well
+,Protected spring
+,Unprotected spring
+,Rainwater
+,Tanker-truck
+,Cart with small tank
+,Water kiosk
+,"Surface water (river, dam, lake, pond, stream, canal, irrigation channel)"
+Location,In own dwelling
+,In own yard / plot
+,Elsewhere
+Methods to make water safe,Boil
+,Add bleach / chlorine
+,Strain it through a cloth
+,"Use water filter (ceramic, sand, composite, etc.)"
+,Solar disinfection
+,Let it stand and settle
+Toilet facility,Flush to piped sewer system
+,Flush to septic tank
+,Flush to pit latrine
+,Flush to open drain
+,Flush to dk where
+,Ventilated improved pitlatrine
+,Pit latrine with slab
+,Pit latrine without slab / open pit
+,Composting toilet
+,Bucket
+,Hanging toilet / hanging latrine
+,No facility / bush / field
+Frequency of emptying toilet facility,"Yes, emptied"
+,Emptied within the last 5 years
+,Emptied more than 5 years ago
+,Don’t know when it was emptied
+,"No, never emptied"
+Where was the toiley facility emptied to?,To a treatment plant by service provider
+,Buried in a covered pit by service provider
+,Removed by service provider to don’t know where
+,Buried in a covered pit
+,"Emptied to uncovered pit, open ground, water body or elsewhereby household"
+Sharing privately/publicly,Shared with known households
+,Shared with general public
+Location of washing hands,Fixed facility observed (sink / tap) in dwelling
+,Fixed facility observed (sink / tap) in yard /plot
+,Mobile object observed(bucket / jug / kettle)
+,No handwashing place in dwelling / yard / plot
+,No permission to see
+Water availability,Water is available
+,Water is not available
+Present/Not present,"Yes, present"
+,"No, not present"
+Salt test,Salt tested 0 ppm (no reaction)
+,Salt tested below 15 ppm (between 0 and 15 ppm)
+,Salt tested above 15 ppm (at least 15 ppm)
+,No salt in the house

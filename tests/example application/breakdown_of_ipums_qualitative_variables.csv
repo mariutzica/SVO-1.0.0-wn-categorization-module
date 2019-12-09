@@ -1,0 +1,46 @@
+,variable name phrase,property nouns,process nouns,phenomenon nouns,state attribute or value nouns,suggested phenomenon,suggested property,suggested process,suggested attribute or value,possible name
+0,urban,,,,,,,,,___
+1,relationship to household head,"relationship,head,",,"head,","relationship,",,head,,relationship ,___head
+2,sex,"sex,","sex,",,"sex,",,sex,,,___sex
+3,population,,"population,",,,,,population,,__population_
+4,marital status,"status,",,,"status,",,status,,,___status
+5,admin codes,,"codes,",,,,,codes,,__codes_
+6,admin level,"level,","level,",,,,level,,,___level
+7,female total in admin level,"level,","level,",,,,level,,,___level
+8,male total in admin level,"level,","level,",,,,level,,,___level
+9,alternative name for admin level,"name,level,","level,",,,,name,level,,__level_name
+10,another alternative name for admin level,"name,level,","level,",,,,name,level,,__level_name
+11,religion,"religion,",,,,,religion,,,___religion
+12,source of livelihood,,"source,","source,",,,,source,,__source_
+13,economic activity,"activity,",,,,,activity,,,___activity
+14,reason for economic inactivity,"reason,inactivity,","reason,inactivity,",,"reason,inactivity,",,inactivity,reason,,__reason_inactivity
+15,type of residence,"type,","type,residence,","residence,",,residence,type,,,residence___type
+16,state of dwelling,"state,",,"state,",,,state,,,___state
+17,source of drinking water,,"source,drinking,water,","source,water,",,source water,,drinking,,source_water__drinking_
+18,source of water,,"source,water,","source,water,",,water,,source,,water__source_
+19,piped water types,,"water,types,","water,types,",,water,,types,,water__types_
+20,type of toilet,"type,toilet,","type,toilet,","toilet,","toilet,",toilet ,type,,,toilet___type
+21,type of toilet disposal,"type,toilet,","type,toilet,disposal,","toilet,","toilet,",toilet ,type,disposal,,toilet__disposal_type
+22,type of bathroom,"type,","type,","bathroom,",,bathroom,type,,,bathroom___type
+23,type of kitchen,"type,","type,","kitchen,",,kitchen,type,,,kitchen___type
+24,type of lighting,"type,","type,",,,,type,,,___type
+25,trash disposal,,"disposal,","trash,",,trash,,disposal,,trash__disposal_
+26,dwelling tenure,"tenure,","tenure,",,,,tenure,,,___tenure
+27,dwelling type,"type,","type,",,,,type,,,___type
+28,walls major material,"walls,","walls,","walls,material,","walls,",material,walls,,,material___walls
+29,ceiling major material,"ceiling,","ceiling,","ceiling,material,",,material,ceiling,,,material___ceiling
+30,roof major material,,"roof,","roof,material,",,material,,roof,,material__roof_
+31,floor major material ,,"floor,","floor,material,",,material,,floor,,material__floor_
+32,types of disabilty,,"types,","types,",,,,types,,__types_
+33,cause of disability ,"disability,","cause,",,"disability,",,,cause,disability ,__cause_
+34,livestock,,,"livestock,",,livestock,,,,livestock___
+35,type of cooking fuel,"type,","type,","fuel,",,fuel,type,,,fuel___type
+36,lighting fuel,,,"fuel,",,fuel,,,,fuel___
+37,duration of use,"duration,","use,",,,,duration,use,,__use_duration
+38,main internet location,,,"internet,",,internet,,,,internet___
+39,household items,,,"items,",,items,,,,items___
+40,household crops,,"crops,","crops,",,,,crops,,__crops_
+41,citizenship,"citizenship,",,,"citizenship,",,citizenship,,,___citizenship
+42,age group (5 year range),"age,year,","age,group,range,",,,,year,age group range,,__age_group_range_year
+43,age group (10 year range),"age,year,","age,group,range,",,,,year,age group range,,__age_group_range_year
+44,age,"age,","age,",,,,age,,,___age
