@@ -35,3 +35,9 @@ n. overly eager speed (and possible carelessness)
 =======  
 Please see the iPython Notebook (click this Binder link to open executable notebook in browser --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mariutzica/SVO-1.0.0-wn-categorization-module/960a82840f9c83678e17a4094668f84f2f2eaf05?filepath=Example%20usage%20and%20outputs.ipynb)) for a simple example of usage.
 
+KNOWN ISSUES WITH BINDER: if you get the error
+
+``Failed to connect to event stream``
+
+when clicking the link and are using the Safari browser on MacOS, please switch to the Chrome browser.
+
